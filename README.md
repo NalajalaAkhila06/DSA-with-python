@@ -17,8 +17,7 @@ Remove.py-	Removes a specific element from the list
 Reverse.py-	Reverses the elements of a list
 Second.py-	Finds the second largest element in a list
 Sum.py-	Calculates the sum of all elements in a list
-Swipping.py-	Swaps two numbers
-Zeroestoend.py-	Moves all zero elements to the end of the list while maintaining order ```
+Swipping.py-	Swaps two numbers ```
 
 ## Concepts Covered
 1.Python lists (arrays)
