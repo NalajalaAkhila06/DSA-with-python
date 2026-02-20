@@ -7,17 +7,17 @@ These programs are useful for beginners to understand looping, conditions, and l
 
 ## Files Included
 File Name	Description
-```Array.py	Basic array program (list handling)
-Even.py	Counts the number of even elements in a list
-Linear.py	Performs linear search in a list
-Negative.py	Counts negative numbers in a list
-Positive.py	Counts positive numbers in a list
-Remove.py	Removes a specific element from the list
-Reverse.py	Reverses the elements of a list
-Second.py	Finds the second largest element in a list
-Sum.py	Calculates the sum of all elements in a list
-Swipping.py	Swaps two numbers
-Zeroestoend.py	Moves all zero elements to the end of the list while maintaining order  ```
+```Array.py-	Basic array program (list handling)
+Even.py-	Counts the number of even elements in a list
+Linear.py-	Performs linear search in a list
+Negative.py-	Counts negative numbers in a list
+Positive.py-	Counts positive numbers in a list
+Remove.py-	Removes a specific element from the list
+Reverse.py-	Reverses the elements of a list
+Second.py-	Finds the second largest element in a list
+Sum.py-	Calculates the sum of all elements in a list
+Swipping.py-	Swaps two numbers
+Zeroestoend.py-	Moves all zero elements to the end of the list while maintaining order  ```
 
 ## Concepts Covered
 1.Python lists (arrays)
