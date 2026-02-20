@@ -34,3 +34,6 @@ Zeroestoend.py-	Moves all zero elements to the end of the list while maintaining
 4.Run any file using:
 5.python filename.py
 
+For any queries:
+mail: nalajalaakhila@gmail.com
+github link: https://github.com/NalajalaAkhila06/DSA-with-python.git
