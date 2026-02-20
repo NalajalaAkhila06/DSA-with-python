@@ -1,4 +1,5 @@
-# DSA-with-python
+Done by **Nalajala Akhila**  
+## DSA-with-python
 
 ## Day 3 – Python Array & Number Programs
 
@@ -17,7 +18,7 @@ Reverse.py-	Reverses the elements of a list
 Second.py-	Finds the second largest element in a list
 Sum.py-	Calculates the sum of all elements in a list
 Swipping.py-	Swaps two numbers
-Zeroestoend.py-	Moves all zero elements to the end of the list while maintaining order  ```
+Zeroestoend.py-	Moves all zero elements to the end of the list while maintaining order ```
 
 ## Concepts Covered
 1.Python lists (arrays)
@@ -34,6 +35,4 @@ Zeroestoend.py-	Moves all zero elements to the end of the list while maintaining
 4.Run any file using:
 5.python filename.py
 
-For any queries:
-mail: nalajalaakhila@gmail.com
-github link: https://github.com/NalajalaAkhila06/DSA-with-python.git
+
